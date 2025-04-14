@@ -1,32 +1,32 @@
-"Model Name,Brand,Body Type,Fuel Type,Price Range (INR)"
-"Mahindra XUV700,Mahindra,SUV,Petrol/Diesel,13.99 - 25.74 Lakh"
-"Mahindra Scorpio N,Mahindra,SUV,Petrol/Diesel,13.99 - 24.89 Lakh"
-"Mahindra Thar,Mahindra,SUV,Petrol/Diesel,11.50 - 17.60 Lakh"
-"Tata Nexon,Tata,SUV,Petrol/Diesel,8.00 - 15.60 Lakh"
-"Maruti Dzire,Maruti Suzuki,Sedan,Petrol,6.84 - 10.19 Lakh"
-"Hyundai Creta,Hyundai,SUV,Petrol/Diesel,11.11 - 20.50 Lakh"
-"Tata Punch,Tata,SUV,Petrol,6.00 - 10.32 Lakh"
-"Maruti FRONX,Maruti Suzuki,SUV,Petrol,7.52 - 13.04 Lakh"
-"Maruti Swift,Maruti Suzuki,Hatchback,Petrol,6.49 - 9.64 Lakh"
-"Toyota Fortuner,Toyota,SUV,Diesel,33.78 - 51.94 Lakh"
-"Maruti Ertiga,Maruti Suzuki,MPV,Petrol,8.84 - 13.13 Lakh"
-"Land Rover Defender,Land Rover,SUV,Diesel,1.04 - 1.57 Crore"
-"Mahindra Scorpio,Mahindra,SUV,Diesel,13.62 - 17.50 Lakh"
-"Maruti Brezza,Maruti Suzuki,SUV,Petrol,8.69 - 14.14 Lakh"
-"Toyota Innova Crysta,Toyota,MPV,Diesel,19.99 - 26.82 Lakh"
-"Maruti Grand Vitara,Maruti Suzuki,SUV,Petrol,11.19 - 20.09 Lakh"
-"Skoda Kushaq,Skoda,SUV,Petrol,7.89 - 14.40 Lakh"
-"Mahindra Bolero,Mahindra,SUV,Diesel,9.79 - 10.91 Lakh"
-"Toyota Camry,Toyota,Sedan,Hybrid,46.17 Lakh"
-"Hyundai Alcazar,Hyundai,SUV,Petrol/Diesel,14.99 - 21.55 Lakh"
-"Honda Amaze,Honda,Sedan,Petrol,6.99 - 9.60 Lakh"
-"Kia Seltos,Kia,SUV,Petrol/Diesel,10.89 - 20.35 Lakh"
-"MG Hector,MG,SUV,Petrol/Diesel,13.99 - 22.32 Lakh"
-"Tata Harrier,Tata,SUV,Diesel,15.49 - 26.44 Lakh"
-"Jeep Compass,Jeep,SUV,Petrol/Diesel,20.49 - 32.07 Lakh"
-"Renault Kiger,Renault,SUV,Petrol,6.50 - 11.23 Lakh"
-"Nissan Magnite,Nissan,SUV,Petrol,6.00 - 11.02 Lakh"
-"Volkswagen Taigun,Volkswagen,SUV,Petrol,11.70 - 19.74 Lakh"
-"Citroen C3,Citroen,Hatchback,Petrol,6.16 - 8.92 Lakh"
-"Hyundai Verna,Hyundai,Sedan,Petrol,11.00 - 17.42 Lakh"
-""
+Model Name,Brand,Body Type,Fuel Type,Price Range (INR)
+Mahindra XUV700,Mahindra,SUV,Petrol/Diesel,13.99 - 25.74 Lakh
+Mahindra Scorpio N,Mahindra,SUV,Petrol/Diesel,13.99 - 24.89 Lakh
+Mahindra Thar,Mahindra,SUV,Petrol/Diesel,11.50 - 17.60 Lakh
+Tata Nexon,Tata,SUV,Petrol/Diesel,8.00 - 15.60 Lakh
+Maruti Dzire,Maruti Suzuki,Sedan,Petrol,6.84 - 10.19 Lakh
+Hyundai Creta,Hyundai,SUV,Petrol/Diesel,11.11 - 20.50 Lakh
+Tata Punch,Tata,SUV,Petrol,6.00 - 10.32 Lakh
+Maruti FRONX,Maruti Suzuki,SUV,Petrol,7.52 - 13.04 Lakh
+Maruti Swift,Maruti Suzuki,Hatchback,Petrol,6.49 - 9.64 Lakh
+Toyota Fortuner,Toyota,SUV,Diesel,33.78 - 51.94 Lakh
+Maruti Ertiga,Maruti Suzuki,MPV,Petrol,8.84 - 13.13 Lakh
+Land Rover Defender,Land Rover,SUV,Diesel,1.04 - 1.57 Crore
+Mahindra Scorpio,Mahindra,SUV,Diesel,13.62 - 17.50 Lakh
+Maruti Brezza,Maruti Suzuki,SUV,Petrol,8.69 - 14.14 Lakh
+Toyota Innova Crysta,Toyota,MPV,Diesel,19.99 - 26.82 Lakh
+Maruti Grand Vitara,Maruti Suzuki,SUV,Petrol,11.19 - 20.09 Lakh
+Skoda Kushaq,Skoda,SUV,Petrol,7.89 - 14.40 Lakh
+Mahindra Bolero,Mahindra,SUV,Diesel,9.79 - 10.91 Lakh
+Toyota Camry,Toyota,Sedan,Hybrid,46.17 Lakh
+Hyundai Alcazar,Hyundai,SUV,Petrol/Diesel,14.99 - 21.55 Lakh
+Honda Amaze,Honda,Sedan,Petrol,6.99 - 9.60 Lakh
+Kia Seltos,Kia,SUV,Petrol/Diesel,10.89 - 20.35 Lakh
+MG Hector,MG,SUV,Petrol/Diesel,13.99 - 22.32 Lakh
+Tata Harrier,Tata,SUV,Diesel,15.49 - 26.44 Lakh
+Jeep Compass,Jeep,SUV,Petrol/Diesel,20.49 - 32.07 Lakh
+Renault Kiger,Renault,SUV,Petrol,6.50 - 11.23 Lakh
+Nissan Magnite,Nissan,SUV,Petrol,6.00 - 11.02 Lakh
+Volkswagen Taigun,Volkswagen,SUV,Petrol,11.70 - 19.74 Lakh
+Citroen C3,Citroen,Hatchback,Petrol,6.16 - 8.92 Lakh
+Hyundai Verna,Hyundai,Sedan,Petrol,11.00 - 17.42 Lakh
+
